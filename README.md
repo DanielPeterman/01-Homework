@@ -25,7 +25,7 @@ In order to open the github project repository visit: ("https://github.com/Danie
 
 In order to open this project page, please visit: ("https://danielpeterman.github.io/01-Homework/") within any web browser.
 
-![Horiseon SEO](./develop/assets/images/screenshot.png)
+![Horiseon Website Screenshot](./develop/assets/images/screenshot.png)
 
 # Credits
 
